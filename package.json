@@ -1,0 +1,23 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "mern heroku deployment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klynne23/merntest.git"
+  },
+  "author": "kirthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klynne23/merntest/issues"
+  },
+  "homepage": "https://github.com/klynne23/merntest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
